@@ -1,0 +1,18 @@
+#hero #hero-bg{
+    background-image: url("https://www.w3schools.com/w3images/architect.jpg");
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+    z-index: 1;
+}
+
+
+
+#span-1{
+    background-color: rgba( 0,0,0,0.7);
+    
+}
